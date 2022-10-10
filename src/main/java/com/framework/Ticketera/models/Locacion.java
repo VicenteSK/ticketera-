@@ -1,4 +1,4 @@
-package Clases;
+package com.framework.Ticketera.models;
 
 public class Locacion {
 	private String id;

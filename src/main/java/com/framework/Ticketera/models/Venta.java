@@ -1,4 +1,4 @@
-package Clases;
+package com.framework.Ticketera.models;
 
 import java.util.Date;
 
